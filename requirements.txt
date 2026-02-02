@@ -1,0 +1,7 @@
+google-genai
+neo4j
+streamlit
+pandas
+python-dotenv
+networkx
+streamlit-agraph

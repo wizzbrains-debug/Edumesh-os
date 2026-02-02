@@ -1,0 +1,6 @@
+I'm a Python developer looking to learn React. I struggle with component lifecycles.
+Experienced Project Manager offering mentorship in Agile methodologies. I notice many team leads lack soft skills.
+Data Scientist here. I need help deploying models to production. willing to teach SQL in exchange.
+Complete beginner interested in AI. I don't know where to start.
+UX Designer looking for a backend dev to partner on a hackathon project.
+I know React well but want to learn graph databases like Neo4j.
